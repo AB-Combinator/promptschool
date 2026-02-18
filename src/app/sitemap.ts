@@ -2,7 +2,7 @@ import type { MetadataRoute } from "next";
 import { courses } from "@/data/curriculum";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "https://promptschool.vercel.app";
+  const baseUrl = "https://promptschool-nu.vercel.app";
 
   const coursePages = courses.map((course) => ({
     url: `${baseUrl}/curriculum/${course.slug}`,

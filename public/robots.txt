@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://promptschool.vercel.app/sitemap.xml
+Sitemap: https://promptschool-nu.vercel.app/sitemap.xml
 
